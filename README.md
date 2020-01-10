@@ -1,5 +1,5 @@
 # SeleniumTest
-Code to get Cost of mobile
+Client Test
 
 
 > To Get iPhone XR (64GB) - Yellow rates from Amazon and Flipkart
